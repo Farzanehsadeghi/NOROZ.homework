@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.465" height="61.491" viewBox="0 0 55.465 61.491">
+  <g id="humidifier" transform="translate(-5.256 -3.31)">
+    <path id="Path_189" data-name="Path 189" d="M6.04,31c.929,21.006,13.7,19.5,26.832,19.5h.18c13.131,0,25.9,1.507,26.832-19.5Z" transform="translate(0.026 13.537)" fill="none" stroke="#a674ae" stroke-width="1.5"/>
+    <path id="Path_190" data-name="Path 190" d="M33.073,4.06h-.18C15.8,4.06,6,27.048,6,41.908c0,.917.015,1.788.06,2.629H59.905c.045-.841.06-1.713.06-2.629C59.965,27.048,50.162,4.06,33.073,4.06Z" transform="translate(0.006)" fill="none" stroke="#a674ae" stroke-width="1.5"/>
+    <rect id="Rectangle_309" data-name="Rectangle 309" width="12.055" height="31.644" transform="translate(26.961 13.011)" fill="none" stroke="#a674ae" stroke-width="1.5"/>
+    <circle id="Ellipse_103" data-name="Ellipse 103" cx="4.521" cy="4.521" r="4.521" transform="translate(28.468 50.565)" fill="#a674ae"/>
+    <rect id="Rectangle_310" data-name="Rectangle 310" width="12.055" height="3.014" transform="translate(26.961 9.997)" fill="#a674ae" stroke="#a674ae" stroke-width="1.5"/>
+    <path id="Path_191" data-name="Path 191" d="M59.042,23.829a8.93,8.93,0,0,1-6.266,2.185c-4.947,0-6.6-3.014-6.6-3.014s-1.649,3.014-6.6,3.014S32.988,23,32.988,23s-1.649,3.014-6.6,3.014S19.8,23,19.8,23s-1.649,3.014-6.6,3.014a8.93,8.93,0,0,1-6.266-2.185,43.45,43.45,0,0,0-.78,12.733H59.821A43.45,43.45,0,0,0,59.042,23.829Z" transform="translate(0 9.528)" fill="#a674ae"/>
+  </g>
+</svg>
